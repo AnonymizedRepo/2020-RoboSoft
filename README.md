@@ -1,1 +1,1 @@
-# Automatic design and rapid manufacture of soft robots at scale and at cost
+# Scalable sim-to-real transfer of soft robot designs
